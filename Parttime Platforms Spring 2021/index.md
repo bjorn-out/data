@@ -2,7 +2,7 @@
 
 ## Syllabus<br><small>Parttime Platforms Spring 2021</small>
 
-Data Processing builds on your knowledge of Python to help you learn how to create small data pipelines and visualisations.In this course, you will learn how to acquire, transform and visualise large datasets. You will use these skills to conduct your data-based project in the next period.
+Data Processing builds on your knowledge of Python to help you learn how to create small data pipelines and visualisations. In this course, you will learn how to acquire, transform and visualise large datasets. You will use these skills to conduct your data-based project in the next period.
 
 ## Staff
 
