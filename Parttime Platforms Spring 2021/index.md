@@ -63,7 +63,7 @@ There are four moments in the week that there is help available on wonder.me:
 | 09:00 - 12:00 |     |  ✓  |     |  ✓  |     |  
 | 14:00 - 17:00 |  ✓  |     |     |     |  ✓  |
 
-### Deadlines
+## Deadlines
 
 Deadlines for each module are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
 
